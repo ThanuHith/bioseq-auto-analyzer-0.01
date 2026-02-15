@@ -1,4 +1,4 @@
-**🧬 BioSeq Auto Analyzer**
+🧬 BioSeq Auto Analyzer
 
 
 
